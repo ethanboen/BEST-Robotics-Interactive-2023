@@ -14,7 +14,7 @@ Add project to unity and ensure the proper version is installed, joystick is req
 - Simulates a nanobot traveling through a body to do surgical tasks
 
 ## Screenshots
-[https://](https://www.ethanboen.com/) 
+[Link to Website](https://www.ethanboen.com/) 
 
 ## License
 
