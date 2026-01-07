@@ -1,5 +1,21 @@
 # BEST-Robotics-Interactive-2023
 
+## Overview
+A Nanobot Simulator for the BEST Robotics Interactive 2023 exhibit.
+
+## Built With
+Unity, Blender, and Paint.net
+
+## How to Run
+Add project to unity and ensure the proper version is installed, joystick is required to run the interactive.
+
+## Features
+- Used Arduino for simulating the nanobot leaving the body
+- Simulates a nanobot traveling through a body to do surgical tasks
+
+## Screenshots
+[https://](https://www.ethanboen.com/) 
+
 ## License
 
 This repository is licensed under the MIT License for all original code and original assets.
